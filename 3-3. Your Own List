@@ -1,0 +1,12 @@
+my_text1 = "I would like to own a"
+my_text2 = "I would´t like to own a"
+var_1 = " Porsche 911"
+var_2 = " Skoda Fabia"
+var_3 = " Toyota car"
+var_4 = " Ducati motorbike"
+var_5 = " KIA car"
+print (my_text1 + var_1)
+print (my_text2 + var_2)
+print (my_text1 + var_3)
+print(my_text1 + var_4) 
+print(my_text2 + var_5)
