@@ -1,0 +1,13 @@
+#Test1
+my_text1 = "Dear"
+my_text2 = "I would like to invite you to our house for a dinner tonight"
+var_1 = " Mum "
+var_2 = " Dad "
+var_3 = " Sister "
+var_4 = " Wife "
+var_5 = " Grandmother "
+print (my_text1 + var_1 + my_text2)
+print (my_text1 + var_2 + my_text2)
+print (my_text1 + var_3 + my_text2)
+print (my_text1 + var_4 + my_text2) 
+print (my_text1 + var_5 + my_text2)
