@@ -1,0 +1,19 @@
+#Test1
+my_list = ["Mum", "Dad", "Sister","Wife","Grand mother"]
+for i in my_list:
+    print (i)
+
+my_list[4] = 0
+print(my_list)
+
+
+#Test2
+my_list = ["Mum2", "Dad2", "Sister2","Wife2","Grand mother2"]
+my_list.remove("Grand mother2")
+print(my_list)
+
+
+#Test3
+my_list = ["Mum3", "Dad3", "Sister3","Wife3","Grand mother3"]
+del my_list[-1]
+print(my_list)
