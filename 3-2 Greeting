@@ -1,0 +1,11 @@
+my_text = "Good morning. How are you?"
+var_1 = "Lukas"
+var_2 = "Peter"
+var_3 = "Jindra"
+var_4 = "Jose"
+var_5 = "Adam"
+print (my_text + var_1)
+print (my_text + var_2)
+print (my_text + var_3)
+print(my_text + var_4) 
+print(my_text + var_5)
