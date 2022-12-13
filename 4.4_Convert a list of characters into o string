@@ -1,0 +1,10 @@
+# convert a list of characters into o string
+my_text1 = ['L', 'U', 'K', 'A','S']
+my_text2 = ['I','S']
+my_text3 = ['E','N','G','I','N','E','E','R']
+my_text4 = [' ']
+str1 = ''.join(my_text1)
+str2 = ''.join(my_text2)
+str3 = ''.join(my_text3)
+str4 = ''.join(my_text4)
+print(str1+str4+str2+str4+str3)
