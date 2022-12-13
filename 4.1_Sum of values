@@ -1,0 +1,15 @@
+# The sum of the entered values TEST1
+def sum_list(items):
+    sum_numbers = 0
+    for x in items:
+        sum_numbers += x
+    return sum_numbers
+print(sum_list([34,-5,+100,-80,+50,]))
+
+# The sum of the entered values TEST2
+def sum_list(items):
+    sum_numbers = -99
+    for x in items:
+        sum_numbers += x
+    return sum_numbers
+print(sum_list([34,-5,+100,-80,+50,]))
