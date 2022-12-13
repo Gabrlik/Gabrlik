@@ -1,0 +1,11 @@
+#Test 1
+color = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+color = [x for (i,x) in enumerate(color) if i not in (0,4,5)]
+print(color)
+
+#Test 2
+my_color = ["Red", "Green", "White","Black","Pink","Yellow"]
+del my_color[5]
+del my_color [4]
+del my_color[0]
+print(my_color)
